@@ -1,2 +1,0 @@
-# CubieJump
- GameTestSFMLTEST

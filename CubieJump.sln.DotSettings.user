@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Cinclude_005CSFML_005CAudio_002Ehpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Cinclude_005CSFML_005CConfig_002Ehpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Cinclude_005CSFML_005CGpuPreference_002Ehpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Cinclude_005CSFML_005CGraphics_002Ehpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Cinclude_005CSFML_005CMain_002Ehpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Cinclude_005CSFML_005CNetwork_002Ehpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Cinclude_005CSFML_005COpenGL_002Ehpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Cinclude_005CSFML_005CSystem_002Ehpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Cinclude_005CSFML_005CWindow_002Ehpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Copenal32_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Daudio_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Daudio_002Dd_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Dgraphics_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Dgraphics_002Dd_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Dnetwork_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Dnetwork_002Dd_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Dsystem_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Dsystem_002Dd_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Dwindow_002D2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=H_003A_005CGames_005CSMFTests_005CCubieJump_005CExternal_005Csfml_002Dwindow_002Dd_002D2_002Edll/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

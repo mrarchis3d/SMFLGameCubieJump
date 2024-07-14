@@ -23,7 +23,7 @@ void Game::InitCharacter()
     player = new sf::RectangleShape(sf::Vector2f(128.f, 128.f));
     player->setOutlineColor(sf::Color::Green);
     player->setOutlineThickness(10);
-    playerTexture.loadFromFile("H:\\Games\\SMFTests\\CubieJump\\CubieJump\\SourceFiles\\Resources\\Sprites\\Idle.png");
+    playerTexture.loadFromFile("ResourceFiles\\Idle.png");
     player->setTexture(&playerTexture);
     this->animation = new Animation(
         &playerTexture,
